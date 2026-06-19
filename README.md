@@ -25,7 +25,21 @@ The target words are one-hot encoded and the model is trained using:
 - Softmax activation
 - Categorical Cross-Entropy Loss
 - Adam Optimizer
+## Dataset
 
+- Source: IBM Think articles, NLP articles, machine learning educational content, and reference text
+- Dataset Type: Raw Text Corpus
+- Total Training Sequences: 12,636
+- Vocabulary Size: 3,184 Words
+- Maximum Sequence Length: 201 Tokens
+
+## Model Architecture
+
+- Embedding Layer (100 Dimensions)
+- LSTM Layer (150 Units)
+- Dense Output Layer (Softmax)
+
+  
 ## Key Concepts Learned
 
 - Text Tokenization
