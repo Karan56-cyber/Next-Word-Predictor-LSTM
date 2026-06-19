@@ -57,4 +57,3 @@ NLP can speed the mining ...
 - TensorFlow
 - Keras
 - NumPy
-- Kaggle<img width="1419" height="654" alt="Screenshot 2026-06-19 at 7 46 21 PM" src="https://github.com/user-attachments/assets/f4a4b142-a207-48f8-bfae-8ef1d742791d" />
